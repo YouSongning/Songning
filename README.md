@@ -1,2 +1,1 @@
-# Songning
-My personal repository
+# About me 
